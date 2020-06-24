@@ -1,0 +1,6 @@
+# mac .dmg
+**/*.dmg
+
+# dsym
+**/*.dSYM/*
+**/*.dmg.dSYM/*
